@@ -7,3 +7,8 @@ run the script and you can set `end_time` to convert part of your bag to test fi
 ```bash
 python livox_topic_transfer.py --file_name {FILENAME} --output_bag {OUTPUT_BAG_DIR&NAME}
 ```
+For example   
+
+```bash
+eg. python livox_topic_transfer.py --file_name 2024-03-29-12-42-59.bag --output_bag odom.bag
+```
